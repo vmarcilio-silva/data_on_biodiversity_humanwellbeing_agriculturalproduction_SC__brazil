@@ -55,4 +55,7 @@ Data in the file "Data_Marcilio-Silva_et_al_2025_AVS.csv" are organized with one
 [Future_Temporary_crop_revenue]: Assemble model predictions for the future temporary crop revenue
 
 
+
+This data DOI: 10.5281/zenodo.17244489
+
 IBGE: Brazilian Institute of Geography and Statistics (IBGE), http://cidades.ibge.gov.br/
