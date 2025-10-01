@@ -56,6 +56,6 @@ Data in the file "Data_Marcilio-Silva_et_al_2025_AVS.csv" are organized with one
 
 
 
-This data DOI: 10.5281/zenodo.17244489
+This data DOI: https://doi.org/10.5281/zenodo.17244488
 
 IBGE: Brazilian Institute of Geography and Statistics (IBGE), http://cidades.ibge.gov.br/
