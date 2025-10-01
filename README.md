@@ -2,7 +2,7 @@ Data for the manuscript: “Synergies and trade-offs between biodiversity conser
 Compiled by: Vinicius Marcilio-Silva
 Note: Please refer to the above manuscript for further details.
 
-Data in the CSV file " XXXX " are organized with one row per municipality. Each column is described bellow ([column name]: description):
+Data in the file "Data_Marcilio-Silva_et_al_2025_AVS.csv" are organized with one row per municipality. Each column is described bellow ([column name]: description):
 [Municipality]: Name of the municipality (IBGE)
 [Number_of_vegetation_plots]: Number of vegetation plots in the municipality
 [Vegetation_area_KM2]: Area of vegetation, in Km^2 (IBGE)
